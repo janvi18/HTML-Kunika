@@ -1,0 +1,7 @@
+HTML - HyperText Markup Language
+Uses -- To create web pages ad web applications.
+
+Exension --> .html OR .htm
+
+br - break row
+bg - background color [ inside body tag ]
